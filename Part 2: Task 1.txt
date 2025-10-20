@@ -1,0 +1,18 @@
+Initial value: score = 88,
+ 
+grade = B
+
+Which condition is true?
+
+All of the conditions are true except for the last one. 
+
+ 
+Final value of grade = B
+
+
+ 
+Output: Grade: B
+
+
+
+
